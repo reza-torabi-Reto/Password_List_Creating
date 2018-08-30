@@ -1,7 +1,5 @@
 from random import choice
 from math import pow
-import os
-import time
 
 # Not Repeat Characters
 def is_repeat_char(str_rp):
