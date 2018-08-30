@@ -1,2 +1,6 @@
-#Password List Creating
+# Password List Creating.
 ----------------------
+
+## Example for Help:
+------------------
+![alt text](pass.png)
